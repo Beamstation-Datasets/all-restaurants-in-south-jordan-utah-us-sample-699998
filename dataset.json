@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for South Jordan, Utah. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in South Jordan, Utah, US",
+  "export_job_id": "d5aa9d69-681e-4ce6-972a-38ae5c6afe28",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 699998,
+  "location_name": "South Jordan",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-south-jordan-utah-us-sample-699998",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/699998/beamstation_699998_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_pct": 9.52,
+  "sample_records": 14,
+  "sample_sha256": "4c4fb50b91377e28ceddbd859bc24dfe433662b2e12c08b271b1eb7a0c2baa27",
+  "sample_size_bytes": 71457,
+  "total_records": 147,
+  "updated_at": "2026-04-09T10:07:45.767668+00:00"
+}
