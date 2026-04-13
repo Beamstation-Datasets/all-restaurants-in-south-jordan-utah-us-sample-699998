@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d5aa9d69-681e-4ce6-972a-38ae5c6afe28",
+  "id_short": 699998,
+  "published_at": "2026-04-13T07:14:08Z",
+  "repo_name": "all-restaurants-in-south-jordan-utah-us-sample-699998",
+  "sample_asset_name": "beamstation_699998_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/699998/beamstation_699998_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_records": 14,
+  "sample_sha256": "4c4fb50b91377e28ceddbd859bc24dfe433662b2e12c08b271b1eb7a0c2baa27",
+  "sample_size_bytes": 71457,
+  "total_records": 147
+}
