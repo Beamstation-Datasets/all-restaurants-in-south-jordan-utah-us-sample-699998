@@ -9,9 +9,9 @@
 | Dataset ID | `699998` |
 | Location | South Jordan |
 | Category | Restaurants |
-| Full dataset size | 147 records |
-| Free sample size | 14 records (9.52%) |
-| Last export | 2026-04-09T10:07:45.767668+00:00 |
+| Full dataset size | 146 records |
+| Free sample size | 14 records (9.59%) |
+| Last export | 2026-04-16T10:02:21.012718+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-south-jordan-utah-us-sample-699998/releases/download/sample-latest/beamstation_699998_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
